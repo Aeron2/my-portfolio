@@ -4,7 +4,7 @@ import photo from "./img/pic.png";
 const Hero = () => {
   return (
     <>
-      <section className="mt-48">
+      <section className="pt-48">
         <div className="container px-56 ">
           <div className="text-green text-base sfmono-sb">Hi, my name is </div>
           <div className="text-llslate   calibre-sb text-8xl mt-8">
