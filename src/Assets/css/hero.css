@@ -1,0 +1,48 @@
+* {
+  background-color: #0b192e;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "calibre-sb";
+  src: url(../font/Calibre/Calibre-Semibold.ttf);
+}
+
+@font-face {
+  font-family: "calibre-reg";
+  src: url(../font/Calibre/Calibre-Regular.ttf);
+}
+@font-face {
+  font-family: "sfmono-sb";
+  src: url(../font/SFMono/SFMono-Regular.ttf);
+}
+.calibre-sb{
+  font-family: "calibre-sb";
+
+}
+.calibre-reg{
+  font-family: "calibre-reg";
+
+}
+.sfmono-sb{
+    font-family: sfmono-sb;
+}
+.cv-btn {
+  border: 1px solid #64ffda;
+  outline: 1px solid #64ffda;
+  background-color: transparent;
+  color: #64ffda;
+  padding: 13px 50px;
+  /* font-weight: bold; */
+  letter-spacing: 1.5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.cv-btn:hover {
+  border-color: #64ffda;
+  background-color: rgba(100,255,218,0.1);
+  /* color: #000000; */
+}
+.cv-a{
+    text-decoration: none;
+}
