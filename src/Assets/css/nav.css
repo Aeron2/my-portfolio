@@ -1,0 +1,10 @@
+.navbar{
+    justify-content: space-between;
+}
+@font-face {
+  font-family: "sfmono-med";
+  src: url(../font/SFMono/SFMono-Medium.ttf);
+}
+.sfmono-med{
+    font-family: sfmono-med;
+}
