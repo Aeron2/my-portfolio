@@ -50,12 +50,12 @@ const Logos = () => {
           <div className="vl"></div>
         </div>
 
-        <div className="fixed bottom-0 -right-12 flex flex-col gap-32 sfmono-med text-slate">
+        <div className="fixed bottom-0 -right-12 flex flex-col gap-32 sfmono-med">
           <div className="rotate-90">
             <a
               id="anchor"
               href="mailto:dhruv.aeron3@gmail.com"
-              className="tracking-widest"
+              className="tracking-widest  text-slate  hover:text-green"
             >
               dhruv.aeron3@gmail.com
             </a>
