@@ -1,6 +1,7 @@
 * {
   background-color: #0b192e;
   box-sizing: border-box;
+  /* color : #8892b0 */
 }
 
 @font-face {
@@ -45,4 +46,9 @@
 }
 .cv-a{
     text-decoration: none;
+}
+.hell{
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }

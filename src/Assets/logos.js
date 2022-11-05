@@ -38,11 +38,12 @@ const Logos = () => {
               <FiLinkedin size={23} />
             </a>
           </div>
-          <div className="text-slate hover:text-green">
+          <div className=" hover:text-green">
             <a
               href="https://twitter.com/AeronDhruv"
               rel="noreferrer"
               target="_blank"
+              className="text-slate hover:text-green"
             >
               <FiTwitter size={23} />
             </a>
