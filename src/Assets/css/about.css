@@ -1,0 +1,31 @@
+.ht {
+  border-top: 1px solid #233554;
+  width: 19rem;
+  margin-top: 13px;
+
+  /* margin-top: 50%; */
+
+}
+
+.my-photo {
+  border-radius: 10px;
+  /* background-color: #233554; */
+  position: relative;
+  left: -10px;
+  top: -10px;
+
+
+}
+
+.my-photo-border {
+  border: 2px solid #64ffda;
+  border-radius: 10px;
+  transition: all 10s ease-in-out 4s;
+  height: 213px;
+}
+
+.my-photo:hover {
+
+  left: -14px;
+  top: -14px;
+}
